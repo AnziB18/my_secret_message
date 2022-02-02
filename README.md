@@ -18,54 +18,54 @@
 
 ## General Information
 
-** With 3 different parts a senctece which will send you a motivation message
+* With 3 different parts a senctece which will send you a motivation message
 
-** This project is part of a project during my education on #Codecemy
+* This project is part of a project during my education on #Codecemy
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Technologies Used
 
-** JavaScript - version 2021
+* JavaScript - version 2021
 
 ## Features
 
 List the ready features here:
 
-** send you a message with motivation content
+* send you a message with motivation content
 
 ## Screenshots
 
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+current no Screenshots!
+<!--![Example screenshot](./img/screenshot.png)
+ If you have screenshots you'd like to share, include them here. -->
 
 ## Setup
 
-** only need browser and Internet
+* only need browser and Internet
 
 ## Usage
 
-** only refresh browser site for a new message
+* only refresh browser site for a new message
 
 ## Project Status
 
-Project is: _in progress_
+* Project is: _in progress_
 
 ## Room for Improvement
 
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
 Room for improvement:
-** Improvement - no Improvements now
+
+* Improvement - no Improvements now
 
 To do:
-** start with coding
+
+* start with coding
 
 ## Acknowledgements
 
-Give credit here.
-** This project was inspired by Codecademy
+* This project was inspired by Codecademy
 
 ## Contact
 
-Created by [@ANZIB18]
+* Created by [@ANZIB18]
